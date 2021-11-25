@@ -1,5 +1,4 @@
 # Portfolio
-Examples of my work.
 
 
 **Ironhack Projects:**
