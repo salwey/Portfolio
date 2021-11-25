@@ -10,5 +10,8 @@ Song Recommender: https://github.com/salwey/music_recommender_gnod - Python - we
 
 Talbeau dashboard example: https://public.tableau.com/app/profile/andy1881/viz/Lesson4_09/Dashboard1?publish=yes
 
-Real world tableau dashboard examples: https://github.com/salwey/Portfolio/blob/main/Andy%20Salwey%20-%20Example%20Tableau%20Dashboards.pptx
+
+**Prior Work**
+Tableau dashboard examples: https://github.com/salwey/Portfolio/blob/main/Andy%20Salwey%20-%20Example%20Tableau%20Dashboards.pptx
 (click "view raw" to download the PDF to view)
+*Note: all context has been removed from the dashboards as the information in the dashboards is confidential to Blizzard, which is always why this is a PDF rather than actual tableau dashboards, but shows off a small sample of reports I have created and visualisations applied**
