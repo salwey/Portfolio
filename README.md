@@ -10,4 +10,5 @@ Song Recommender: https://github.com/salwey/music_recommender_gnod - Python - we
 
 Talbeau dashboard example: https://public.tableau.com/app/profile/andy1881/viz/Lesson4_09/Dashboard1?publish=yes
 
-Real world tableau dashboard examples: 
+Real world tableau dashboard examples: https://github.com/salwey/Portfolio/blob/main/Andy%20Salwey%20-%20Example%20Tableau%20Dashboards.pptx
+(click "view raw" to download the PDF to view)
