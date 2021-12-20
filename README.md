@@ -9,6 +9,8 @@
 
 Talbeau dashboard example: https://public.tableau.com/app/profile/andy1881/viz/Lesson4_09/Dashboard1?publish=yes
 
+Final  Project: Fabular, starting from player log files
+https://github.com/salwey/Ironhack-Final-Project---Fabular
 
 **Prior Work**
 - Tableau dashboard examples: https://github.com/salwey/Portfolio/blob/main/Andy%20Salwey%20-%20Example%20Tableau%20Dashboards.pptx
